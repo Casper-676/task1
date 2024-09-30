@@ -1,6 +1,6 @@
 <?php
 // Database credentials
-$servername = "localhos"; // or your server name
+$servername = "localhost"; // or your server name
 $username = "root"; // MySQL username
 $password = ""; // MySQL password
 $dbname = "login_details";
